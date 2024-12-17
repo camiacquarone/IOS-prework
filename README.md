@@ -33,6 +33,8 @@ Spotify
 - Recommends songs based on previous engangement 
 - When you add a song to queue, you can drag it into the order that you want 
 
+An app I would like to build is "FitBuddies". FitBuddies would be an app that allows you to track and motivate children to participate in physical activity. Once you log in activity, you are able to play fun interactives games, personalize your characters, and move along levels and journeys. The goal of this app is to inspire children to move in their own way and be able to see growth. 
+
 ## Notes
 
 Describe any challenges encountered while building the app.
